@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties message sent from Beverley to both Houses of Parliament, 24. April concerning Sir Iohn Hothams refusall to permit His Majestie to enter into his town of Hull : together with a petition presented unto His Majestie in the name of the gentry and commons of the county of York : with His Majesties letter to the major, aldermen, and burgesses of the town and port of Kingston upon Hull, 25. April 1642.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31973</idno><idno type="EEBO-CITATION">15565351</idno>
+  <idno type="VID">103821</idno>
+  <idno type="EEBO-PROQUEST">2240905037</idno>
+  
+            <idno type="STC">Wing C2436</idno>
+            <idno type="STC">ESTC R35855</idno>
+            <idno type="OCLC">15565351</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A31973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties message sent from Beverley to both Houses of Parliament, 24. April concerning Sir Iohn Hothams refusall to permit His Majestie to enter into his town of Hull : together with a petition presented unto His Majestie in the name of the gentry and commons of the county of York : with His Majesties letter to the major, aldermen, and burgesses of the town and port of Kingston upon Hull, 25. April 1642.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103821:1"/>
+            <pb facs="tcp:103821:1"/>
+            <p>HIS MAJESTIES MESSAGE Sent from <hi>Beverley</hi> to both Houses of Parliament, 24. April.</p>
+            <p>Concerning Sir <hi>Iohn Hothams</hi> refusall to permit His Majestie to enter into His Town of HULL.</p>
+            <p>Together with a Petition presented unto His Majestie in the name of the Gentry, and Commons of the County of YORK.</p>
+            <p>With His Majesties Letter to the Major, Aldermen, and Burgesses of the Town and Port of Kingston upon HULL. 25. April. 1642.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103821:2"/>
+            <pb n="1" facs="tcp:103821:2"/>
+            <head>❧ His Majesties Message sent to both Houses of Parliament, 24. April. Concerning Sir <hi>John Hothams</hi> refusall to per<g ref="char:EOLhyphen"/>mit His Majestie to enter into His Town of <hi>Hull.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majestie, ha<g ref="char:EOLhyphen"/>ving received the Petition inclosed from most of the chief of the Gen<g ref="char:EOLhyphen"/>try neer about <hi>York,</hi> desiring the stay of His Majesties Arms and Munition in his Magazin at <hi>Hull,</hi> for the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fety, not onely of His Ma<g ref="char:EOLhyphen"/>jesties Person and Children, but likewise of all these Northern parts, the manifold rumors of great dan<g ref="char:EOLhyphen"/>gers
+<pb n="2" facs="tcp:103821:3"/> inducing them to make their said Supplication, thought it most fit to go himself in Person to His Town of <hi>Hull,</hi> to view His Arms and Munition there, that thereup<g ref="char:EOLhyphen"/>on He might give directions what part thereof might be necessary to remain there, for the security and satisfaction of His Northern Sub<g ref="char:EOLhyphen"/>jects, and what part thereof might be spared for <hi>Ireland,</hi> the arming of His Majesties Scots Subjects that are to go thither, or to replenish His chiefest Magazin of the Tow<g ref="char:EOLhyphen"/>er of <hi>London:</hi> Where being come, upon the 23. of this instant April (much contrary to His expectation) He found all the Gates shut upon Him, and the Bridges drawn up, by the expresse command of Sir <hi>John Hotham,</hi> who, for the present, commands a Garrison there, and from the walls flatly denied His Majestie entrance into His said Town, the reason of the said deniall
+<pb n="3" facs="tcp:103821:3"/> being as strange to His Majestie as the thing it self; it being, That he could not admit His Majesty, with<g ref="char:EOLhyphen"/>out breach of trust to His Parlia<g ref="char:EOLhyphen"/>ment, which did the more incense His Majesties Anger against him, for that He most Seditiously and Traiterously would have put his Disobedience upon His Majesties Parliament, which His Majesty be<g ref="char:EOLhyphen"/>ing willing to cleer, demanded of him, If he had the impudence to aver, That the Parliament had di<g ref="char:EOLhyphen"/>rected him to deny His Majestie en<g ref="char:EOLhyphen"/>trance, &amp; that if he had any such Or<g ref="char:EOLhyphen"/>der, that he should shew it in wri<g ref="char:EOLhyphen"/>ting, for otherwise His Majesty could not beleeve it; which he could no wayes produce, but maliciously made that false Interpretation, ac<g ref="char:EOLhyphen"/>cording to his own Inferences, con<g ref="char:EOLhyphen"/>fessing that he had no such positive Order, which His Majestie was ever confident of. But His Maje<g ref="char:EOLhyphen"/>stie, not willing to take so much
+<pb n="4" facs="tcp:103821:4"/> pains in vain, offered to come into that His Town onely with twenty Horse, finding that the main of his pretence lay, That His Majesties Train was able to command the Garrison (notwithstanding His Majestie was so desirous to go thi<g ref="char:EOLhyphen"/>ther in a private way, that He gave warning thereof but overnight) which he refusing, but by way of Condition (which His Majestie thought much below Him) held it most necessary to declare him Traitour (unlesse, upon better thoughts, he should yeeld obedience) which he doubly deserved, as well for his refusing entrance to His na<g ref="char:EOLhyphen"/>turall Sovereign, as by laying the Reason thereof groundlesly and maliciously upon His Parliament. One Circumstance His Majestie cannot forget, That His Son, the Duke of <hi>York,</hi> and His Nephew, the Prince Elector, having gone thither the day before, Sir <hi>John
+<pb n="5" facs="tcp:103821:4"/> Hotham</hi> delayed the letting of them out to His Majestie, till after some Consultation.</p>
+            <p>Hereupon, His Majestie hath thought it expedient to demand Iu<g ref="char:EOLhyphen"/>stice of His Parliament against the said Sir <hi>John Hotham,</hi> to be exem<g ref="char:EOLhyphen"/>plarily inflicted on him, according to the Laws; and the rather, because His Majestie would give them a fit occasion to free themselves of this Imputation by him so injuri<g ref="char:EOLhyphen"/>ously cast upon them; to the end His Majesty may have the easier way for the chastizing of so high a Disobedience.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:103821:5"/>
+            <pb n="1" facs="tcp:103821:5"/>
+            <head>TO THE KINGS <hi>MOST EXCELLENT</hi> MAJESTIE. The humble Petition of the Gentry and Commons of the County of YORK.</head>
+            <opener>
+               <salute>Most Royall Sovereign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">E</seg>Ncouraged by Your Majesties many Te<g ref="char:EOLhyphen"/>stimonies of Your gra<g ref="char:EOLhyphen"/>cious Goodnesse to us and our County, which we can ne<g ref="char:EOLhyphen"/>ver sufficiently acknowledge, We, in all Duty and Loyalty of heart, addresse our selves to your Sacred Majestie, beseeching You to cast your
+<pb n="8" facs="tcp:103821:6"/> Eyes and Thoughts upon the safety of your own Person, and your Princely Issue, and this whole Coun<g ref="char:EOLhyphen"/>ty; a great means whereof we con<g ref="char:EOLhyphen"/>ceive doth consist in the Arms and Ammunition at <hi>Hull,</hi> placed there by your Princely Care and Charge, and since upon generall Apprehen<g ref="char:EOLhyphen"/>sion of Dangers from foreign parts, represented to your Majestie, thought fit as yet to be continued: We, for our parts, conceiving our selves to be still in danger, doe most humbly beseech your Majestie, That you will be pleased to take such course and order, that your Magazin may still there remain, for the better securing of these, and the rest of the Northern parts: And the rather, because we think it fit, That that part of the
+<pb n="9" facs="tcp:103821:6"/> Kingdom should be best provided where your sacred Person doth re<g ref="char:EOLhyphen"/>side, your Person being like <hi>Davids, The light of Israel, and more worth then ten thousand of vs;</hi>
+            </p>
+            <closer>VVho shall daily pray, &amp;c.</closer>
+         </div>
+         <div type="blazon">
+            <pb facs="tcp:103821:7"/>
+            <p>
+               <figure>
+                  <figDesc>arms of Charles I</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:103821:7"/>
+            <head>To Our trusty and welbeloved, the Major, Aldermen, and Burgesses of Our Town and Port of <hi>King<g ref="char:EOLhyphen"/>ston</hi> upon <hi>Hull.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Rusty and welbeloved, VVee greet you well. VVhereas VVee have been long sensible of the just Complaints and great Burdens of Our Subjects in these Northern parts, by occasion of the Garrison in Our Town of <hi>Hull;</hi> And whereas VVe were upon Friday the 22. of this Moneth petitioned by divers of the Gentry, and others, Inhabitants of this County, That the Munition at <hi>Hull</hi> might remain in the Magazin there, for the security of Our Person, and of
+<pb n="12" facs="tcp:103821:8"/> all these Northern parts, their Fears being much grounded upon the Par<g ref="char:EOLhyphen"/>liaments Relations of foreign Inva<g ref="char:EOLhyphen"/>sions; Upon which, the more to expresse Our care of Our peoples safety, We did Our Self go in Per<g ref="char:EOLhyphen"/>son to that Our Town, that upon Our own view, We might consult what proportion of it might be fitly removed upon any pressing Occasi<g ref="char:EOLhyphen"/>on, having a respect to the promised supply for <hi>Scotland,</hi> the necessary use of Arms for <hi>Ireland,</hi> as well as for the safeguard and satisfaction of these Northern parts: But much contra<g ref="char:EOLhyphen"/>ry to Our expectation, and the Du<g ref="char:EOLhyphen"/>ty and Allegiance of Our Subjects, VVe found the Gates of that Our Town shut, and the Bridges drawn up against Us; and though We came in a peaceable way, reposing
+<pb n="13" facs="tcp:103821:8"/> the greatest Confidence in the Love and Loyalty of Our People, by of<g ref="char:EOLhyphen"/>fering (as VVe did) to put Our own Person, and Our two Sons, but with twenty Horse, into that Town, there being in it a Garrison of about eight hundred Souldiers; Yet VVe were not onely denied entrance, but in a warlike manner opposed by Sir <hi>John Hotham,</hi> the armed men being placed in all the Ports, and about all the Walls of the Town, alleadging (though falsly) for his excuse, The Command of the Parliament, and being pressed by Us to shew such an Order in VVriting, he could not do it; for VVe were ever very confident that there was never any publique Order of theirs, that could so much as imply a deniall to Our Admission; VVe knowing well enough, that he was
+<pb n="14" facs="tcp:103821:9"/> entrusted by them for a Guard and Security of that place against for<g ref="char:EOLhyphen"/>reign Enemies, or those at home who are dis-affected in Religion, and not against His naturall Sovereign; which hostile Opposition and actuall Levying of VVar against Our Per<g ref="char:EOLhyphen"/>son, being, by the Statute of 25. <hi>Ed.</hi> 3. enacted High Treason: Which Statute considered, and that for the avoiding of all Jealousies, as VVe have said, VVe were content to have been admitted with so very small a number in Our Company, VVe were thereupon constrained to pro<g ref="char:EOLhyphen"/>claim the said Sir <hi>John Hotham,</hi> and all those that should adhere to, or as<g ref="char:EOLhyphen"/>sist him, Traytors. Of all which a<g ref="char:EOLhyphen"/>bovesaid Passages, We have ac<g ref="char:EOLhyphen"/>quainted Our Parliament, demand<g ref="char:EOLhyphen"/>ing Justice to be done upon him, that
+<pb n="15" facs="tcp:103821:9"/> they might thereby have oportunity to vindicate the imputation laid on them by Sir <hi>John Hotham,</hi> and VVe the easier way to chastize, according to the Law, so high a Treason. And lest a mis-understanding of Our In<g ref="char:EOLhyphen"/>tentions, or of the Law may misguide any of Our loyall and wel-affected Subjects, the Inhabitants, Captains, Officers, or Souldiers in that Town, We have thought fit to commend to your Consideration the aforenamed Statutes, with that of the 11. of <hi>Hen.</hi> 7. <hi>Cha.</hi> 1. wherein it is declared, by the unanimous Assent of Parliament, <hi>That the Subjects of this Realm are bound, by the Duty of Allegiance, to serve the King, for the time being, for the defence of His Person and the Land, against every Rebellion, Might, or Power raised against Him, and with
+<pb n="16" facs="tcp:103821:10"/> His Majestie to enter and abide in Ser<g ref="char:EOLhyphen"/>vice in Battell, if cause so require.</hi> And it was therefore then enacted, <hi>That, from thenceforth no person whatsoever that shall attend vpon the King, or be in place, by His command, within, or with<g ref="char:EOLhyphen"/>out the Land, That for the same deed and true service of Allegiance, he, and they be no wayes attaint or convict of high Treason, or of other Offences for that Cause, by any processe of Law, whereby he, or any of them shall lose or forfeit Lives, Lands, Tenements, Goods, or any thing; but be, for that Deed and Service vtterly discharged of any vexation, trouble, or losse; And if any Act or Acts, or other Processe of Law thereupon for the same hap<g ref="char:EOLhyphen"/>pen to be made contrary to this Or<g ref="char:EOLhyphen"/>dinance, that then that Act or Acts, or other Processe of the Law what<g ref="char:EOLhyphen"/>soever
+<pb n="17" facs="tcp:103821:10"/> they shall be, stand and be ut<g ref="char:EOLhyphen"/>terly void.</hi>
+            </p>
+            <p>All which, together with the Co<g ref="char:EOLhyphen"/>pies of Our Message and Petition (which VVe send here inclosed) VVe require you to publish to the Inhabitants, and all such Command<g ref="char:EOLhyphen"/>ers and Souldiers as will hear them: That knowing both the perill of the Law on the one side, and the security of such as shall adhere to Us on the other, they be not misled (through Ignorance) to decline their, Allegi<g ref="char:EOLhyphen"/>ance; and that the Souldiers may lay down their Arms, and admit Our entrance in a peaceable way. In so do<g ref="char:EOLhyphen"/>ing, you shall both discharge your duties, and those that shall have need, be assured to finde (upon such their submission) Our ready Mercy and Pardon.</p>
+            <pb n="18" facs="tcp:103821:11"/>
+            <p>And VVe do likewise require, and charge all you, the Inhabitants (as well Souldiers as others) upon your Allegiance, That you permit not any part of Our Magazin or Munition to be removed or transported out of that Town under any pretence of Order or Power whatsoever, with<g ref="char:EOLhyphen"/>out Our Royall Assent in writing under Our Hand. Assuring you, That it will be much more pleasing to Us to have Occasion administred by the Fidelity of the Inhabitants to enlarge those Graces and Immunities granted to that Town by Our Predecessors, then to have any occasion to question your Charter.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> York, <date>
+                     <hi>the</hi> 25. <hi>of April,</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103821:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
